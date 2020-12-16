@@ -17,3 +17,7 @@ use powershell like normal.
 
 ## Test 2 
 checking differences
+
+
+### Copyright
+git training.2020.
