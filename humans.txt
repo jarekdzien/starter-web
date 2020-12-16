@@ -4,7 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
-
+	Jarek Dzien	jarekdzien@o2.pl
 # THANKS
 
     <name>
